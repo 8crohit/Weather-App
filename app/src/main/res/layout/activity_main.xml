@@ -263,14 +263,6 @@
                         android:layout_marginLeft="20dp"
                         android:textStyle="bold"
                         android:text="Degree : "/>
-<!--                    <TextView-->
-<!--                        android:id="@+id/gust"-->
-<!--                        android:layout_width="wrap_content"-->
-<!--                        android:layout_height="wrap_content"-->
-<!--                        android:textColor="@color/black"-->
-<!--                        android:layout_marginLeft="20dp"-->
-<!--                        android:textStyle="bold"-->
-<!--                        android:text="Gust : -"/>-->
                 </LinearLayout>
 
             </LinearLayout>
